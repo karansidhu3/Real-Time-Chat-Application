@@ -2,6 +2,8 @@
 
 This is a real-time chat application built using both **TCP** and **UDP** protocols. It allows users to register, manage a buddy list, send messages, and update their statuses. The application is designed to communicate directly between clients for real-time messaging and status updates.
 
+[Link to Video Demo](https://drive.google.com/file/d/1htMtEBektKSCJs5Y-cYGsuKZL9G3HqtD/view?usp=sharing)
+
 ## Features
 - **User Registration**: Users can register with the server.
 - **Buddy List Management**: Add or delete buddies.
